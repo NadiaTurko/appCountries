@@ -1,7 +1,7 @@
 {
   "name": "countries-app",
   "version": "0.1.0",
-  "homepage": "https://nadiaturko.github.io/appCountries",
+  "homepage": "https://NadiaTurko.github.io/appCountries",
   "private": false,
   "dependencies": {
     "@emotion/react": "^11.11.1",
