@@ -5,7 +5,7 @@ import CapitalFormComponent from "../components/CapitalFormComponent/CapitalForm
 import useCountries from "../hooks/useCountries";
 // import CountriesContext from "../contexts/CountriesContext/CountriesContext";
 export default function RouteHome() {
-  let { state, handleCountryChange } = useCountries();
+  let { state } = useCountries();
   return (
     <>
       <HomeComponent />
